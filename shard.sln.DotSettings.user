@@ -1,4 +1,7 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f2f0bde5_002D43d4_002D4039_002D8202_002D94763efb6a2b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;Shard.UNGNUNES.Tests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;Project Location="C:\Users\Clement\RiderProjects\efrei-p2023-csharp\Shard.UNGNUNES.Tests" Presentation="&amp;lt;Shard.UNGNUNES.Tests&amp;gt;" /&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;Project Location="C:\Users\Clement\efrei-p2023-csharp\Shard.Shared.Web.IntegrationTests" Presentation="&amp;lt;Shard.Shared.Web.IntegrationTests&amp;gt;" /&gt;&#xD;
+    &lt;Project Location="C:\Users\Clement\efrei-p2023-csharp\Shard.UNGNUNES.Tests" Presentation="&amp;lt;Shard.UNGNUNES.Tests&amp;gt;" /&gt;&#xD;
+  &lt;/Or&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
